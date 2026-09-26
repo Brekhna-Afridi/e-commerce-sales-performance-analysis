@@ -91,15 +91,6 @@ Open:
 E-Commerce_Sales_Performance_Analysis.ipynb
 ```
 
-## Run the Dashboard
-
-From the project folder:
-
-```bash
-pip install -r requirements.txt
-streamlit run dashboard.py
-```
-
 ## Portfolio Value
 
 This project demonstrates practical skills in:
